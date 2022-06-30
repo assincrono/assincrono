@@ -36,18 +36,18 @@ Here are some ideas to get you started:
   <br>
   <br>
   <a href="#">
-    <img width="60" height="60" src="https://i.pinimg.com/1200x/84/4f/94/844f941c1a00acc2a2a9179ab291d4de.jpg"/>
+    <img width="300" height="300" src="https://i.pinimg.com/1200x/84/4f/94/844f941c1a00acc2a2a9179ab291d4de.jpg"/>
   </a>
   <br>
   <p>
     <a href="http://weibo.com/pc175">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" />
+      <img width="36" height="36" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/nandowastaken" target="_blank">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
+      <img width="36" height="36" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:fernandojorge.cavalcantegomes@gmail.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
+      <img width="36" height="36" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
   <p>Hi, I'm Fernando, student of IT at the Federal Institute of Alagoas, Brazil.</p>
