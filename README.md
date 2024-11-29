@@ -5,4 +5,4 @@ I'm an experienced software developer with a background in developing, scaling, 
 🔭 I’m currently working on ...
 * <a href="https://play.google.com/store/apps/details?id=com.glowup.mobile&hl=pt_BR">Glow Up</a>: Mobile application for Android to help people improve their mental health and beauty.
 * <a href="https://github.com/nandowastaken/nes">NES</a>: I am building a NES emulator in Rust to learn low level coding and computer architecture.
-* <a href="https://fernando-2.gitbook.io/dsa-docs">dsa-docs</a>: My own personal gitbook containing notes about data structures and algorithms.
+* <a href="https://fernando-2.gitbook.io/dsa-docs">dsa-docs</a>: I'm compiling my notes on data structures and algorithms into a single gitbook! 
