@@ -1,4 +1,6 @@
-hi there, i'm a software engineer with around 3 years of experience, mostly in full-stack development, nowadays i work very closely with data engineering
+hi there
+
+i'm a software engineer with around 3 years of experience, mostly in full-stack development, nowadays i work very closely with data engineering
 
 i have great passion for learning and building, and am currently majoring in ai at institute of computing, ufal
 
