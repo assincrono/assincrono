@@ -1,6 +1,6 @@
 hi there, i'm a software engineer with around 3 years of experience, mostly in full-stack development, nowadays i work very closely with data engineering
 
-i have great passion for learning and building
+i have great passion for learning and building, and am currently majoring in ai at institute of computing, ufal
 
 my current interests: golang, c/c++, data science, ml/ai, cybersec, low level development
 
